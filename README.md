@@ -26,5 +26,5 @@ npm i -S live-xxx
 
 [MIT](http://vjpr.mit-license.org)
 
-[npm-image]: https://img.shields.io/npm/v/live-xxx.svg
+[npm-image]: https://img.shields.io/npm/v/youtube-rtsp.svg
 [npm-url]: https://www.npmjs.com/package/youtube-rtsp
