@@ -1,9 +1,7 @@
 # youtube-rtsp
 Easily broadcast any number of RTSP streams to YouTube's livestream service.
 
-> ${DESCRIPTION}
-
-[![NPM Version][npm-image]][https://www.npmjs.com/package/youtube-rtsp]
+[![NPM Version](https://www.npmjs.com/package/youtube-rtsp)
 
 ## Install
 
