@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Live Webcam 1",
+      "description": "This is my first live webcam stream using youtube-rtsp.",
+      "format": "720p",
+      "rtsp": "rtsp://..."
+    },
+    {
+      "title": "Live Webcam 2",
+      "description": "This is my second live webcam stream using youtube-rtsp.",
+      "format": "720p",
+      "rtsp": "rtsp://...",
+      "services": {
+        "streamID": "",
+        "broadcastID": ""
+      }
+    }
+  ]
+}
